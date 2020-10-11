@@ -1,6 +1,5 @@
-<link href="css/beautiful.css" rel="stylesheet">
 <div align="center">
-   <h1 class="text ruby">BeautifulCSS</h1>
+   <h1>BeautifulCSS</h1>
  </div>
 
 ## Active to your website
