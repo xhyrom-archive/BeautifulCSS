@@ -1,3 +1,4 @@
+<link href="css/beautiful.css" rel="stylesheet">
 <div align="center">
    <h1>BeautifulCSS</h1>
  </div>
