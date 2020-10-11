@@ -9,6 +9,9 @@
 
 <!-- BeautifulCSS -->
 <link href="https://dev.hyrousek.tk/css/beautiful.css" rel="stylesheet">
+
+<!-- BeautifulJS -->
+<script src="https://dev.hyrousek.tk/js/beautiful.js" charset="utf-8"></script>
 ```
 
 ## Features
