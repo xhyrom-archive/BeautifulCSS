@@ -17,6 +17,7 @@
 ## Features
  - Text
  - Buttons
+ - Animation Scroll Function
  - Responsive
 
 ## ToDo
